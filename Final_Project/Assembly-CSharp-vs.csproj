@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Hints.cs" />
      <Compile Include="Assets\Scripts\LightsHint.cs" />
      <Compile Include="Assets\Scripts\Restart.cs" />
+     <Compile Include="Assets\doorDark.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />

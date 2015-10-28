@@ -1,10 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\DIS\CS\RollABall\RollABall\Assets\Scripts\PlayerController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\doorDark.cs">
     <Files>
       <File FileName="..\..\..\DIS\CS\RollABall\RollABall\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
       <File FileName="..\..\..\DIS\CS\RollABall\RollABall\Assets\Scripts\Enemy.cs" Line="1" Column="1" />
-      <File FileName="..\..\..\DIS\CS\TurnedIn\2DPlatformer\Assets\Scripts\GameScore.cs" Line="3" Column="1" />
+      <File FileName="..\..\..\DIS\CS\TurnedIn\2DPlatformer\Assets\Scripts\GameScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\doorDark.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\Door1.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
