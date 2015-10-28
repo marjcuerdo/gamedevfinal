@@ -46,12 +46,15 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\PrimitivePlus\Scripts\PrimitivePlusEditor.cs" />
      <Compile Include="Assets\Scripts\CustomController.cs" />
      <Compile Include="Assets\Scripts\Door1.cs" />
      <Compile Include="Assets\Scripts\Hints.cs" />
      <Compile Include="Assets\Scripts\LightsHint.cs" />
      <Compile Include="Assets\Scripts\Restart.cs" />
-     <Compile Include="Assets\doorDark.cs" />
+     <Compile Include="Assets\Scripts\SpikeDeath.cs" />
+     <Compile Include="Assets\Scripts\doorDark.cs" />
+     <None Include="Assets\PrimitivePlus\Documentation\ReadMe.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
