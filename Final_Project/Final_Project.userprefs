@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Door1.cs">
     <Files>
-      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="258" Column="1" />
+      <File FileName="Assets\Door1.cs" Line="17" Column="28" />
+      <File FileName="..\..\..\DIS\CS\RollABall\RollABall\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\DIS\CS\RollABall\RollABall\Assets\Scripts\Enemy.cs" Line="32" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
