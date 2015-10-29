@@ -55,6 +55,7 @@
      <Compile Include="Assets\Scripts\Restart.cs" />
      <Compile Include="Assets\Scripts\SpikeDeath.cs" />
      <Compile Include="Assets\Scripts\doorDark.cs" />
+     <Compile Include="Assets\Scripts\doorTutorial.cs" />
      <None Include="Assets\PrimitivePlus\Documentation\ReadMe.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
