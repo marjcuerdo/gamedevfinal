@@ -13,9 +13,10 @@ public class SpikeDeath : MonoBehaviour {
 		
 	}
 
-	void OnTriggerCollider (Collider other){
-		if(other.gameObject.CompareTag("Death")){
+	void OnTriggerEnter(Collider other) {
+		if(other.gameObject.tag =="Death"){
 			Application.LoadLevel(Application.loadedLevel); 
+			Debug.Log("Restarted"); 
 		}
 	}
 }

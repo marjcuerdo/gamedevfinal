@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Door1.cs" />
      <Compile Include="Assets\Scripts\Hints.cs" />
      <Compile Include="Assets\Scripts\LightsHint.cs" />
+     <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\Restart.cs" />
      <Compile Include="Assets\Scripts\SpikeDeath.cs" />
      <Compile Include="Assets\Scripts\doorDark.cs" />
