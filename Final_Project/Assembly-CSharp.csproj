@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\PrimitivePlus\Scripts\PrimitivePlusEditor.cs" />
+     <Compile Include="Assets\Scripts\BouncyBall.cs" />
      <Compile Include="Assets\Scripts\CustomController.cs" />
      <Compile Include="Assets\Scripts\Door1.cs" />
      <Compile Include="Assets\Scripts\Hints.cs" />
